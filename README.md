@@ -30,13 +30,13 @@
 <li>Goes to different Amazon electronics pages and scrapes the pages for products that are on sale. Grabs the name, picture, old price, sale price, and URL of the product and saves it into an arraylist. Also assigns each product with its own GUID</li>
 </ul>
 <ol start="2">
-<li>removeDuplicates(products);</li>
+<li>removeDuplicates();</li>
 </ol>
 <ul>
 <li>Removes any duplicate products from the arraylist since some pages repeat sale items</li>
 </ul>
 <ol start="3">
-<li>writeExcel(products);</li>
+<li>writeExcel();</li>
 </ol>
 <ul>
 <li>clears the products.xlsx to make way for new products on sale this week. Then populates the sheets with products and their data</li>
@@ -47,7 +47,7 @@
 <p>Find a faster way to grab data. Runtime can stretch up to 15 minutes</p>
 </li>
 <li>
-<p>Set up an SQL database on my laptop so the data is stored in a database instead of an excel file</p>
+<p>I decided to push everything to an excel sheet rather than my SQL database is because I couldnt find a way to view each product in the database alongside with a picture of that item so it because difficult to do a manual quality check</p>
 </li>
 </ol>
 </div>
@@ -55,5 +55,5 @@
 
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDM3MDY1NF19
+eyJoaXN0b3J5IjpbMTgwOTEyMTI2MiwxNzg0MzcwNjU0XX0=
 -->
