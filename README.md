@@ -47,13 +47,16 @@
 <p>Find a faster way to grab data. Runtime can stretch up to 15 minutes</p>
 </li>
 <li>
-<p>I decided to push everything to an excel sheet rather than my SQL database is because I couldnt find a way to view each product in the database alongside with a picture of that item so it because difficult to do a manual quality check</p>
+<p>I decided to push everything to an excel sheet rather than my SQL database is because I couldnt find a way to view each product in the database alongside with a picture of that item so it because difficult to do a manual quality check if need be. Excel sheets make it easier to quickly remove products that I don't want</p>
 </li>
 </ol>
+
+<h2 id="improvements">Improvements</h2>
+
 </div>
 </body>
 
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTEyMTI2MiwxNzg0MzcwNjU0XX0=
+eyJoaXN0b3J5IjpbMTI1MzQwNzYyMywxNzg0MzcwNjU0XX0=
 -->
